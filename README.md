@@ -89,16 +89,6 @@ Hello! I'm **Ikirieyu** ([@ikirieyu](https://github.com/ikirieyu)), a passionate
 
 ---
 
-### <img src="https://api.iconify.design/material-symbols:folder-special-outline.svg?color=%23990000" width="24" height="24" align="center" alt="Projects" /> Featured Projects
-
-| Project | Description | Tech/Tools | Preview |
-| :--- | :--- | :--- | :---: |
-| **<img src="https://api.iconify.design/material-symbols:language-rounded.svg?color=%23990000" width="16" height="16" align="center" alt="Web" /> Webfolio Portfolio** | Interactive modern portfolio website with animations and responsive layout. | HTML5, CSS3, JS | [View Live](https://github.com/ikirieyu) |
-| **<img src="https://api.iconify.design/material-symbols:design-services-outline.svg?color=%23990000" width="16" height="16" align="center" alt="Brand" /> Brand Identity Package** | Complete brand identity package & design system for e-commerce. | Illustrator, Photoshop | [Behance](https://github.com/ikirieyu) |
-| **<img src="https://api.iconify.design/material-symbols:shopping-bag-outline.svg?color=%23990000" width="16" height="16" align="center" alt="E-commerce" /> E-commerce UI/UX Design** | Minimalist and expressive online store interface mockup & prototype. | Figma, Prototype | [Figma](https://github.com/ikirieyu) |
-
----
-
 ### <img src="https://api.iconify.design/material-symbols:mark-email-unread-outline.svg?color=%23990000" width="24" height="24" align="center" alt="Connect" /> Let's Connect!
 
 <div align="center">
