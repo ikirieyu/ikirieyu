@@ -23,7 +23,7 @@
   <p align="center">
     <a href="https://github.com/ikirieyu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
     <a href="https://behance.net/ikirieyu" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-    <a href="https://instagram.com/ikirieyu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://instagram.com/iki.rieyu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   </p>
 
   <!-- Profile Views Counter -->
@@ -98,7 +98,7 @@ Want to collaborate on a project or just say hi? Feel free to reach out!
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Webfolio-990000?style=for-the-badge" alt="Portfolio" />
 </a>
 &nbsp;
-<a href="mailto:contact@ikirieyu.com">
+<a href="mailto:ikirieyu@gmail.com">
   <img src="https://img.shields.io/badge/💼_Available_for_Freelance-Contact_Me-990000?style=for-the-badge" alt="Hire Me" />
 </a>
 
