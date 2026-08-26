@@ -12,9 +12,11 @@
 
   <br>
 
-  <!-- Badges Subtitle -->
+  <!-- Badges Subtitle with Flaticon Icons -->
   <p align="center">
-    🎨 <b>Graphic Designer</b> &nbsp;|&nbsp; 💻 <b>Web & UI/UX Designer</b> &nbsp;|&nbsp; 🛒 <b>E-commerce Specialist</b>
+    <img src="https://cdn-icons-png.flaticon.com/512/1046/1046830.png" width="18" height="18" align="center" alt="Graphic Design" /> <b>Graphic Designer</b> &nbsp;|&nbsp; 
+    <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="18" height="18" align="center" alt="Web Design" /> <b>Web & UI/UX Designer</b> &nbsp;|&nbsp; 
+    <img src="https://cdn-icons-png.flaticon.com/512/1170/1170678.png" width="18" height="18" align="center" alt="E-commerce" /> <b>E-commerce Specialist</b>
   </p>
 
   <!-- Social Links Shields -->
@@ -36,34 +38,34 @@
 
 ---
 
-### 🚀 About Me
+### <img src="https://cdn-icons-png.flaticon.com/512/1046/1046784.png" width="24" height="24" align="center" alt="About Me" /> About Me
 
 Hello! I'm **Diki Permana** ([@ikirieyu](https://github.com/ikirieyu)), a passionate Graphic Designer and Web Developer specializing in modern visual aesthetics, brand identity, interactive e-commerce, and print design.
 
-- 🔭 **Currently working on:** E-commerce webfolio & brand identity projects.
-- 🌱 **Currently learning:** UI/UX Micro-interactions & Next.js Framework.
-- 👯 **Looking to collaborate on:** Graphic design, UI/UX, & web development projects.
-- 💬 **Ask me about:** Design systems, Adobe Creative Suite, Figma, HTML/CSS, & E-commerce layout.
-- ⚡ **Fun Fact:** Attention to color precision and typography is the key to premium design!
+- <img src="https://cdn-icons-png.flaticon.com/512/3208/3208727.png" width="18" height="18" align="center" alt="Working" /> <b>Currently working on:</b> E-commerce webfolio & brand identity projects.
+- <img src="https://cdn-icons-png.flaticon.com/512/1829/1829432.png" width="18" height="18" align="center" alt="Learning" /> <b>Currently learning:</b> UI/UX Micro-interactions & Next.js Framework.
+- <img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="18" height="18" align="center" alt="Collaborate" /> <b>Looking to collaborate on:</b> Graphic design, UI/UX, & web development projects.
+- <img src="https://cdn-icons-png.flaticon.com/512/134/134932.png" width="18" height="18" align="center" alt="Ask" /> <b>Ask me about:</b> Design systems, Adobe Creative Suite, Figma, HTML/CSS, & E-commerce layout.
+- <img src="https://cdn-icons-png.flaticon.com/512/785/785116.png" width="18" height="18" align="center" alt="Fun Fact" /> <b>Fun Fact:</b> Attention to color precision and typography is the key to premium design!
 
 ---
 
-### 🛠️ Skills & Tools
+### <img src="https://cdn-icons-png.flaticon.com/512/3522/3522262.png" width="24" height="24" align="center" alt="Skills & Tools" /> Skills & Tools
 
-#### 🎨 Graphic & UI/UX Design
+#### <img src="https://cdn-icons-png.flaticon.com/512/1046/1046830.png" width="20" height="20" align="center" alt="Design" /> Graphic & UI/UX Design
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd" alt="Design Tools" align="center" />
   <img src="assets/coreldraw.svg" alt="CorelDRAW" width="48" height="48" align="center" />
 </p>
 
-#### 💻 Web Development & Tech Stack
+#### <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="20" height="20" align="center" alt="Web Dev" /> Web Development & Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" alt="Web Dev Stack" />
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://cdn-icons-png.flaticon.com/512/3594/3594363.png" width="24" height="24" align="center" alt="Analytics" /> GitHub Analytics
 
 <div align="center">
   <p align="center">
@@ -87,17 +89,17 @@ Hello! I'm **Diki Permana** ([@ikirieyu](https://github.com/ikirieyu)), a passio
 
 ---
 
-### 🖼️ Featured Projects
+### <img src="https://cdn-icons-png.flaticon.com/512/1087/1087815.png" width="24" height="24" align="center" alt="Projects" /> Featured Projects
 
 | Project | Description | Tech/Tools | Preview |
 | :--- | :--- | :--- | :---: |
-| **🌐 Webfolio Portfolio** | Interactive modern portfolio website with animations and responsive layout. | HTML5, CSS3, JS | [View Live](https://github.com/ikirieyu) |
-| **🎨 Brand Identity Package** | Complete brand identity package & design system for e-commerce. | Illustrator, Photoshop | [Behance](https://github.com/ikirieyu) |
-| **🛒 E-commerce UI/UX Design** | Minimalist and expressive online store interface mockup & prototype. | Figma, Prototype | [Figma](https://github.com/ikirieyu) |
+| **<img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="16" height="16" align="center" alt="Web" /> Webfolio Portfolio** | Interactive modern portfolio website with animations and responsive layout. | HTML5, CSS3, JS | [View Live](https://github.com/ikirieyu) |
+| **<img src="https://cdn-icons-png.flaticon.com/512/1046/1046830.png" width="16" height="16" align="center" alt="Brand" /> Brand Identity Package** | Complete brand identity package & design system for e-commerce. | Illustrator, Photoshop | [Behance](https://github.com/ikirieyu) |
+| **<img src="https://cdn-icons-png.flaticon.com/512/1170/1170678.png" width="16" height="16" align="center" alt="E-commerce" /> E-commerce UI/UX Design** | Minimalist and expressive online store interface mockup & prototype. | Figma, Prototype | [Figma](https://github.com/ikirieyu) |
 
 ---
 
-### 📬 Let's Connect!
+### <img src="https://cdn-icons-png.flaticon.com/512/3059/3059989.png" width="24" height="24" align="center" alt="Connect" /> Let's Connect!
 
 <div align="center">
 
