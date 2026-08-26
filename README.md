@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=160&section=header&text=Hello!%20I'm%20Diki%20Permana%20👋&fontSize=28&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=160&section=header&text=Hello!%20I'm%20Ikirieyu%20%E2%9C%A8&fontSize=28&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
 
   <br>
 
@@ -40,7 +40,7 @@
 
 ### <img src="https://api.iconify.design/material-symbols:rocket-launch-rounded.svg?color=%23990000" width="24" height="24" align="center" alt="About Me" /> About Me
 
-Hello! I'm **Diki Permana** ([@ikirieyu](https://github.com/ikirieyu)), a passionate Graphic Designer and Web Developer specializing in modern visual aesthetics, brand identity, interactive e-commerce, and print design.
+Hello! I'm **Ikirieyu** ([@ikirieyu](https://github.com/ikirieyu)), a passionate Graphic Designer and Web Developer specializing in modern visual aesthetics, brand identity, interactive e-commerce, and print design.
 
 - <img src="https://api.iconify.design/material-symbols:my-location-outline.svg?color=%23990000" width="18" height="18" align="center" alt="Working" /> <b>Currently working on:</b> E-commerce webfolio & brand identity projects.
 - <img src="https://api.iconify.design/material-symbols:auto-stories-outline.svg?color=%23990000" width="18" height="18" align="center" alt="Learning" /> <b>Currently learning:</b> UI/UX Micro-interactions & Next.js Framework.
