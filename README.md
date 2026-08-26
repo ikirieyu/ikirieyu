@@ -94,7 +94,7 @@ Want to collaborate on a project or just say hi? Feel free to reach out!
 
 <br>
 
-<a href="https://github.com/ikirieyu" target="_blank">
+<a href="https://ikirieyu.github.io/webfolio/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Webfolio-990000?style=for-the-badge" alt="Portfolio" />
 </a>
 &nbsp;
