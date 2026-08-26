@@ -52,9 +52,8 @@ Halo! Saya **Diki Permana** ([@ikirieyu](https://github.com/ikirieyu)), seorang 
 
 #### 🎨 Graphic & UI/UX Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd" alt="Design Tools" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CorelDRAW-009B48?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd" alt="Design Tools" align="center" />
+  <img src="assets/coreldraw.svg" alt="CorelDRAW" width="48" height="48" align="center" />
 </p>
 
 #### 💻 Web Development & Tech Stack
