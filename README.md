@@ -40,7 +40,7 @@ I have 4+ years of experience in the printing and e-commerce industries, from pr
 
 | Category | Stack |
 | :-- | :-- |
-| **Design** | <img src="https://skillicons.dev/icons?i=ps,ai,id,figma" alt="Design tools" height="40" /> <img src="assets/coreldraw.svg" alt="CorelDRAW" height="40" /> |
+| **Design** | <img src="https://skillicons.dev/icons?i=ps,ai" alt="Photoshop, Illustrator" height="40" /> <img src="assets/indesign.svg" alt="InDesign" height="40" /> <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" /> <img src="assets/coreldraw.svg" alt="CorelDRAW" height="40" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite" alt="Frontend" height="40" /> |
 | **App & Backend** | <img src="https://skillicons.dev/icons?i=electron,supabase" alt="App and backend" height="40" /> |
 | **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Workflow" height="40" /> |
