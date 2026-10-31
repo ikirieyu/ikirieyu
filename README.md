@@ -4,7 +4,7 @@
 
 **Graphic Designer · Web Developer · E-commerce & Print Specialist**
 
-<sub>Based in Jakarta, Indonesia</sub>
+<sub>Jakarta, Indonesia</sub>
 
 <br>
 
@@ -15,57 +15,81 @@
 
 </div>
 
-<br>
+---
 
-## About
+## About Me
 
 Hi, I'm Diki. I design for print and for screen, and I care about the small details that make work feel right: accurate colors, clean typography, and files that print exactly the way they look on screen.
 
-I've spent 4+ years in the printing and e-commerce industries, from prepress and production to marketplace visuals that help products get noticed. On the side, I build small web, mobile, and desktop apps, because I enjoy turning ideas into something people can actually use.
+I have 4+ years of experience in the printing and e-commerce industries, from prepress and production to marketplace visuals. On the side, I build small web, mobile, and desktop apps.
 
-## What I do
+---
 
-- **Graphic design & branding**: logos, layouts, and visual identity
-- **Print production**: prepress, file preparation, and quality checks
-- **E-commerce visuals**: product listings and campaign content
-- **Web & app development**: Next.js / Vite apps, packaged for Android and Windows
+## What I Do
+
+| Area | Details |
+| :-- | :-- |
+| **Graphic Design & Branding** | Logos, layouts, and visual identity |
+| **Print Production** | Prepress, file preparation, and quality checks |
+| **E-commerce Visuals** | Product listings and campaign content |
+| **Web & App Development** | Next.js / Vite apps, packaged for Android and Windows |
+
+---
+
+## Tools & Tech
+
+| Category | Stack |
+| :-- | :-- |
+| **Design** | <img src="https://skillicons.dev/icons?i=ps,ai,id,figma" alt="Design tools" height="40" /> <img src="assets/coreldraw.svg" alt="CorelDRAW" height="40" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite" alt="Frontend" height="40" /> |
+| **App & Backend** | <img src="https://skillicons.dev/icons?i=electron,supabase" alt="App and backend" height="40" /> |
+| **Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Workflow" height="40" /> |
+
+---
 
 ## Currently
 
-- Building my personal portfolio website (design and web projects in one place)
-- Learning UI/UX micro-interactions and getting deeper into Next.js
+| Focus | Status |
+| :-- | :-- |
+| **Portfolio website** | Building it, with design and web projects in one place |
+| **UI/UX micro-interactions** | Learning |
+| **Next.js** | Going deeper |
 
-## Tools
+---
 
-**Design**
+## GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=ps,ai,id,figma" alt="Design tools" />
-<img src="assets/coreldraw.svg" alt="CorelDRAW" width="48" height="48" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ikirieyu&show_icons=true&hide_border=true&count_private=true&title_color=4FB596&icon_color=4FB596&text_color=c9d1d9&bg_color=0d1117" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikirieyu&show_icons=true&hide_border=true&count_private=true&title_color=1D4E40&icon_color=1D4E40&text_color=24292f&bg_color=ffffff" alt="GitHub stats" height="165" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikirieyu&layout=compact&hide_border=true&title_color=4FB596&text_color=c9d1d9&bg_color=0d1117" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikirieyu&layout=compact&hide_border=true&title_color=1D4E40&text_color=24292f&bg_color=ffffff" alt="Top languages" height="165" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
-**Development**
+---
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,electron,supabase,git,github,vscode,linux" alt="Development tools" />
+## Let's Work Together
 
-## GitHub
+I'm open to freelance projects and collaborations in graphic design, UI/UX, and web development. Got an idea or a rough brief? Feel free to reach out.
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ikirieyu&show_icons=true&hide_border=true&count_private=true&title_color=4FB596&icon_color=4FB596&text_color=c9d1d9&bg_color=0d1117" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikirieyu&show_icons=true&hide_border=true&count_private=true&title_color=1D4E40&icon_color=1D4E40&text_color=24292f&bg_color=ffffff" alt="GitHub stats" height="165" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikirieyu&layout=compact&hide_border=true&title_color=4FB596&text_color=c9d1d9&bg_color=0d1117" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikirieyu&layout=compact&hide_border=true&title_color=1D4E40&text_color=24292f&bg_color=ffffff" alt="Top languages" height="165" />
-  </picture>
-</p>
+| Platform | Link |
+| :-- | :-- |
+| **Email** | [ikirieyu@gmail.com](mailto:ikirieyu@gmail.com) |
+| **Portfolio** | [ikirieyu.github.io/webfolio](https://ikirieyu.github.io/webfolio/) |
+| **Behance** | [behance.net/ikirieyu](https://behance.net/ikirieyu) |
+| **Instagram** | [@iki.rieyu](https://instagram.com/iki.rieyu) |
 
-## Let's work together
-
-I'm open to freelance projects and collaborations in graphic design, UI/UX, and web development. If you have an idea, a rough brief, or just a question, feel free to reach out. I'm happy to talk it through.
-
-📩 [ikirieyu@gmail.com](mailto:ikirieyu@gmail.com)
-
-<br>
+---
 
 <div align="center">
   <sub>Thanks for stopping by.</sub>
