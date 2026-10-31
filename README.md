@@ -1,111 +1,72 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E40&height=160&section=header&text=Hello!%20I'm%20Ikirieyu&fontSize=30&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
+# Ikirieyu
 
-  <br>
+**Graphic Designer · Web Developer · E-commerce & Print Specialist**
 
-  <!-- Typing SVG Effect -->
-  <a href="https://github.com/ikirieyu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D4E40&center=true&vcenter=true&width=650&height=50&lines=Graphic+Designer+%26+Web+Developer;Specialist+in+E-commerce+%26+Print+Design;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <!-- Badges Subtitle with Google Material Symbols Icons -->
-  <p align="center">
-    <img src="https://api.iconify.design/material-symbols:palette-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="Graphic Design" /> <b>Graphic Designer</b> &nbsp;|&nbsp; 
-    <img src="https://api.iconify.design/material-symbols:laptop-mac-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="Web Design" /> <b>Web & UI/UX Designer</b> &nbsp;|&nbsp; 
-    <img src="https://api.iconify.design/material-symbols:shopping-cart-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="E-commerce" /> <b>E-commerce Specialist</b>
-  </p>
-
-  <!-- Social Links Shields -->
-  <p align="center">
-    <a href="https://github.com/ikirieyu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-    <a href="https://behance.net/ikirieyu" target="_blank"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-    <a href="https://instagram.com/iki.rieyu" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  </p>
-
-  <!-- Profile Views Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ikirieyu&color=1D4E40&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </p>
-
-</div>
-
----
-
-### <img src="https://api.iconify.design/material-symbols:rocket-launch-rounded.svg?color=%231D4E40" width="24" height="24" align="center" alt="About Me" /> About Me
-
-Hello! I'm **Ikirieyu** ([@ikirieyu](https://github.com/ikirieyu)), a passionate Graphic Designer and Web Developer specializing in modern visual aesthetics, brand identity, interactive e-commerce, and print design.
-
-- <img src="https://api.iconify.design/material-symbols:my-location-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="Working" /> <b>Currently working on:</b> E-commerce webfolio & brand identity projects.
-- <img src="https://api.iconify.design/material-symbols:auto-stories-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="Learning" /> <b>Currently learning:</b> UI/UX Micro-interactions & Next.js Framework.
-- <img src="https://api.iconify.design/material-symbols:handshake-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="Collaborate" /> <b>Looking to collaborate on:</b> Graphic design, UI/UX, & web development projects.
-- <img src="https://api.iconify.design/material-symbols:chat-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="Ask" /> <b>Ask me about:</b> Design systems, Adobe Creative Suite, Figma, HTML/CSS, & E-commerce layout.
-- <img src="https://api.iconify.design/material-symbols:bolt-outline.svg?color=%231D4E40" width="18" height="18" align="center" alt="Fun Fact" /> <b>Fun Fact:</b> Attention to color precision and typography is the key to premium design!
-
----
-
-### <img src="https://api.iconify.design/material-symbols:build-circle-outline-rounded.svg?color=%231D4E40" width="24" height="24" align="center" alt="Skills & Tools" /> Skills & Tools
-
-#### <img src="https://api.iconify.design/material-symbols:palette-outline.svg?color=%231D4E40" width="20" height="20" align="center" alt="Design" /> Graphic & UI/UX Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae,xd" alt="Design Tools" align="center" />
-  <img src="assets/coreldraw.svg" alt="CorelDRAW" width="48" height="48" align="center" />
-</p>
-
-#### <img src="https://api.iconify.design/material-symbols:code-blocks-outline.svg?color=%231D4E40" width="20" height="20" align="center" alt="Web Dev" /> Web Development & Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,git,github,vscode" alt="Web Dev Stack" />
-</p>
-
----
-
-### <img src="https://api.iconify.design/material-symbols:bar-chart-4-bars.svg?color=%231D4E40" width="24" height="24" align="center" alt="Analytics" /> GitHub Analytics
-
-<div align="center">
-  <p align="center">
-    <a href="https://github.com/ikirieyu">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikirieyu&show_icons=true&title_color=1D4E40&icon_color=1D4E40&text_color=ffffff&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-    </a>
-    <a href="https://github.com/ikirieyu">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikirieyu&layout=compact&title_color=1D4E40&icon_color=1D4E40&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Top Languages" height="170" />
-    </a>
-  </p>
-
-  <br>
-
-  <!-- GitHub Streak Stats -->
-  <p align="center">
-    <a href="https://github.com/ikirieyu">
-      <img src="https://streak-stats.demolab.com/?user=ikirieyu&theme=dark&background=0d1117&border=1D4E40&stroke=1D4E40&ring=1D4E40&fire=1D4E40&currStreakNum=1D4E40&sideNums=ffffff&sideLabels=ffffff&dates=1D4E40&hide_border=true" alt="Streak Stats" />
-    </a>
-  </p>
-</div>
-
----
-
-### <img src="https://api.iconify.design/material-symbols:mark-email-unread-outline.svg?color=%231D4E40" width="24" height="24" align="center" alt="Connect" /> Let's Connect!
-
-<div align="center">
-
-Want to collaborate on a project or just say hi? Feel free to reach out!
+<sub>Based in Jakarta, Indonesia</sub>
 
 <br>
 
-<a href="https://ikirieyu.github.io/webfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-Webfolio-1D4E40?style=for-the-badge" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:ikirieyu@gmail.com">
-  <img src="https://img.shields.io/badge/💼_Available_for_Freelance-Contact_Me-1D4E40?style=for-the-badge" alt="Hire Me" />
-</a>
+<a href="https://ikirieyu.github.io/webfolio/"><img src="https://img.shields.io/badge/Portfolio-1D4E40?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://behance.net/ikirieyu"><img src="https://img.shields.io/badge/Behance-1D4E40?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
+<a href="https://instagram.com/iki.rieyu"><img src="https://img.shields.io/badge/Instagram-1D4E40?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:ikirieyu@gmail.com"><img src="https://img.shields.io/badge/Email-1D4E40?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1D4E40&height=100&section=footer" alt="Footer Banner" width="100%" />
+## About
+
+Hi, I'm Diki. I design for print and for screen, and I care about the small details that make work feel right: accurate colors, clean typography, and files that print exactly the way they look on screen.
+
+I've spent 4+ years in the printing and e-commerce industries, from prepress and production to marketplace visuals that help products get noticed. On the side, I build small web, mobile, and desktop apps, because I enjoy turning ideas into something people can actually use.
+
+## What I do
+
+- **Graphic design & branding**: logos, layouts, and visual identity
+- **Print production**: prepress, file preparation, and quality checks
+- **E-commerce visuals**: product listings and campaign content
+- **Web & app development**: Next.js / Vite apps, packaged for Android and Windows
+
+## Currently
+
+- Building my personal portfolio website (design and web projects in one place)
+- Learning UI/UX micro-interactions and getting deeper into Next.js
+
+## Tools
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=ps,ai,id,figma" alt="Design tools" />
+<img src="assets/coreldraw.svg" alt="CorelDRAW" width="48" height="48" />
+
+**Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,electron,supabase,git,github,vscode,linux" alt="Development tools" />
+
+## GitHub
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=ikirieyu&show_icons=true&hide_border=true&count_private=true&title_color=4FB596&icon_color=4FB596&text_color=c9d1d9&bg_color=0d1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikirieyu&show_icons=true&hide_border=true&count_private=true&title_color=1D4E40&icon_color=1D4E40&text_color=24292f&bg_color=ffffff" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikirieyu&layout=compact&hide_border=true&title_color=4FB596&text_color=c9d1d9&bg_color=0d1117" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikirieyu&layout=compact&hide_border=true&title_color=1D4E40&text_color=24292f&bg_color=ffffff" alt="Top languages" height="165" />
+  </picture>
 </p>
+
+## Let's work together
+
+I'm open to freelance projects and collaborations in graphic design, UI/UX, and web development. If you have an idea, a rough brief, or just a question, feel free to reach out. I'm happy to talk it through.
+
+📩 [ikirieyu@gmail.com](mailto:ikirieyu@gmail.com)
+
+<br>
+
+<div align="center">
+  <sub>Thanks for stopping by.</sub>
+</div>
